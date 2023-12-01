@@ -1,0 +1,1361 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "type": "text",
+      "version": 231,
+      "versionNonce": 428667410,
+      "isDeleted": false,
+      "id": "FkWTdX9AFBY9l9yiqdaMK",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 25883.890236805513,
+      "y": 15925.77518087161,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 1049.5999755859375,
+      "height": 470.40000000000003,
+      "seed": 110705506,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1701400263377,
+      "link": null,
+      "locked": false,
+      "fontSize": 28,
+      "fontFamily": 3,
+      "text": "The web has existed in some form for the last three decades,\nand while some of its core remains the same, plenty has changed.\n\nInitially since the browser was simple, most of the interesting\ndynamic nature of websites came from the server, but as\nJavaScript become more powerful, and people realized maybe\ndoing more on the client would be better, the server in some\ncases is only responsible for shooting a small index.html\nalongside megabytes of JavaScript at the client.\n\nHowever, the bleeding edge of current modern web frameworks\nare rethinking this approach, and the pendulum is swinging\nback in the direction of the server, but with an\ninteresting twist.",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "The web has existed in some form for the last three decades,\nand while some of its core remains the same, plenty has changed.\n\nInitially since the browser was simple, most of the interesting\ndynamic nature of websites came from the server, but as\nJavaScript become more powerful, and people realized maybe\ndoing more on the client would be better, the server in some\ncases is only responsible for shooting a small index.html\nalongside megabytes of JavaScript at the client.\n\nHowever, the bleeding edge of current modern web frameworks\nare rethinking this approach, and the pendulum is swinging\nback in the direction of the server, but with an\ninteresting twist.",
+      "lineHeight": 1.2,
+      "baseline": 464
+    },
+    {
+      "id": "Gn9yzs9PxCrY761ns5L-0",
+      "type": "text",
+      "x": 25882.223570138874,
+      "y": 15757.290332386752,
+      "width": 606.7999877929688,
+      "height": 100.80000000000001,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1717524818,
+      "version": 79,
+      "versionNonce": 875442514,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1701400261304,
+      "link": null,
+      "locked": false,
+      "text": "Navigating the many methods available\nand considerations to be made while\ndeploying a website in 2023",
+      "fontSize": 28,
+      "fontFamily": 3,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 95,
+      "containerId": null,
+      "originalText": "Navigating the many methods available\nand considerations to be made while\ndeploying a website in 2023",
+      "lineHeight": 1.2
+    },
+    {
+      "id": "R5t3j6eH-oGIYnsHSBAsH",
+      "type": "text",
+      "x": 25884.344782260087,
+      "y": 15654.866089962516,
+      "width": 557.5999755859375,
+      "height": 33.6,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 614758798,
+      "version": 72,
+      "versionNonce": 412658642,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1701400249910,
+      "link": null,
+      "locked": false,
+      "text": "Modern Server-Side Web Development",
+      "fontSize": 28,
+      "fontFamily": 3,
+      "textAlign": "center",
+      "verticalAlign": "top",
+      "baseline": 27,
+      "containerId": null,
+      "originalText": "Modern Server-Side Web Development",
+      "lineHeight": 1.2
+    },
+    {
+      "id": "lBHYiWRgLGwEXr_ycelZb",
+      "type": "text",
+      "x": 25887.47509139391,
+      "y": 15588.399423295847,
+      "width": 379.79998779296875,
+      "height": 43.199999999999996,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 64227534,
+      "version": 63,
+      "versionNonce": 201183826,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1701400247245,
+      "link": null,
+      "locked": false,
+      "text": "Beyond the Browser",
+      "fontSize": 36,
+      "fontFamily": 3,
+      "textAlign": "center",
+      "verticalAlign": "top",
+      "baseline": 35,
+      "containerId": null,
+      "originalText": "Beyond the Browser",
+      "lineHeight": 1.2
+    },
+    {
+      "id": "cfTQHqLpBJk-PR-r20_pv",
+      "type": "freedraw",
+      "x": 25907.526600441917,
+      "y": 15566.002453598876,
+      "width": 61.66666666666788,
+      "height": 161.66666666666788,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 977343890,
+      "version": 40,
+      "versionNonce": 63130126,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1701400268131,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -16.66666666666788,
+          0
+        ],
+        [
+          -26.66666666666788,
+          0
+        ],
+        [
+          -43.33333333333576,
+          -1.6666666666678793
+        ],
+        [
+          -48.33333333333576,
+          -1.6666666666678793
+        ],
+        [
+          -51.66666666666788,
+          -1.6666666666678793
+        ],
+        [
+          -53.33333333333576,
+          -1.6666666666678793
+        ],
+        [
+          -55,
+          -1.6666666666678793
+        ],
+        [
+          -56.66666666666788,
+          -1.6666666666678793
+        ],
+        [
+          -56.66666666666788,
+          1.6666666666660603
+        ],
+        [
+          -56.66666666666788,
+          5
+        ],
+        [
+          -53.33333333333576,
+          15
+        ],
+        [
+          -50,
+          23.33333333333212
+        ],
+        [
+          -48.33333333333576,
+          33.33333333333212
+        ],
+        [
+          -48.33333333333576,
+          55
+        ],
+        [
+          -48.33333333333576,
+          71.66666666666606
+        ],
+        [
+          -48.33333333333576,
+          91.66666666666606
+        ],
+        [
+          -48.33333333333576,
+          101.66666666666606
+        ],
+        [
+          -48.33333333333576,
+          113.33333333333212
+        ],
+        [
+          -48.33333333333576,
+          121.66666666666606
+        ],
+        [
+          -50,
+          130
+        ],
+        [
+          -50,
+          140
+        ],
+        [
+          -50,
+          145
+        ],
+        [
+          -51.66666666666788,
+          150
+        ],
+        [
+          -51.66666666666788,
+          151.66666666666606
+        ],
+        [
+          -51.66666666666788,
+          155
+        ],
+        [
+          -51.66666666666788,
+          156.66666666666606
+        ],
+        [
+          -51.66666666666788,
+          158.33333333333212
+        ],
+        [
+          -51.66666666666788,
+          160
+        ],
+        [
+          -48.33333333333576,
+          158.33333333333212
+        ],
+        [
+          -45,
+          156.66666666666606
+        ],
+        [
+          -40,
+          155
+        ],
+        [
+          -28.33333333333576,
+          151.66666666666606
+        ],
+        [
+          -16.66666666666788,
+          151.66666666666606
+        ],
+        [
+          -8.333333333335759,
+          153.33333333333212
+        ],
+        [
+          0,
+          155
+        ],
+        [
+          1.6666666666642413,
+          155
+        ],
+        [
+          5,
+          155
+        ],
+        [
+          5,
+          155
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        5,
+        155
+      ]
+    },
+    {
+      "id": "03-u0bzKLJABV4DkW699c",
+      "type": "freedraw",
+      "x": 25897.526600441917,
+      "y": 15899.335786932208,
+      "width": 53.33333333333212,
+      "height": 156.66666666666606,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 97000338,
+      "version": 46,
+      "versionNonce": 118047118,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1701400270368,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -6.666666666667879,
+          -1.6666666666660603
+        ],
+        [
+          -16.66666666666788,
+          -3.3333333333321207
+        ],
+        [
+          -30,
+          -6.66666666666606
+        ],
+        [
+          -35,
+          -8.33333333333212
+        ],
+        [
+          -36.66666666666788,
+          -8.33333333333212
+        ],
+        [
+          -41.66666666666788,
+          -10
+        ],
+        [
+          -41.66666666666788,
+          -11.66666666666606
+        ],
+        [
+          -43.33333333333576,
+          -13.33333333333212
+        ],
+        [
+          -45,
+          -15
+        ],
+        [
+          -45,
+          -18.33333333333212
+        ],
+        [
+          -45,
+          -30
+        ],
+        [
+          -45,
+          -38.33333333333212
+        ],
+        [
+          -45,
+          -48.33333333333212
+        ],
+        [
+          -45,
+          -66.66666666666606
+        ],
+        [
+          -45,
+          -76.66666666666606
+        ],
+        [
+          -45,
+          -91.66666666666606
+        ],
+        [
+          -45,
+          -101.66666666666606
+        ],
+        [
+          -45,
+          -113.33333333333212
+        ],
+        [
+          -45,
+          -120
+        ],
+        [
+          -45,
+          -126.66666666666606
+        ],
+        [
+          -45,
+          -135
+        ],
+        [
+          -45,
+          -140
+        ],
+        [
+          -45,
+          -143.33333333333212
+        ],
+        [
+          -45,
+          -146.66666666666606
+        ],
+        [
+          -45,
+          -150
+        ],
+        [
+          -45,
+          -151.66666666666606
+        ],
+        [
+          -45,
+          -153.33333333333212
+        ],
+        [
+          -45,
+          -155
+        ],
+        [
+          -43.33333333333576,
+          -155
+        ],
+        [
+          -41.66666666666788,
+          -156.66666666666606
+        ],
+        [
+          -40,
+          -156.66666666666606
+        ],
+        [
+          -36.66666666666788,
+          -156.66666666666606
+        ],
+        [
+          -33.33333333333576,
+          -156.66666666666606
+        ],
+        [
+          -28.33333333333576,
+          -156.66666666666606
+        ],
+        [
+          -25,
+          -156.66666666666606
+        ],
+        [
+          -20,
+          -156.66666666666606
+        ],
+        [
+          -13.333333333335759,
+          -156.66666666666606
+        ],
+        [
+          -8.333333333335759,
+          -156.66666666666606
+        ],
+        [
+          -3.3333333333357587,
+          -156.66666666666606
+        ],
+        [
+          0,
+          -156.66666666666606
+        ],
+        [
+          3.3333333333321207,
+          -156.66666666666606
+        ],
+        [
+          6.666666666664241,
+          -156.66666666666606
+        ],
+        [
+          8.33333333333212,
+          -156.66666666666606
+        ],
+        [
+          8.33333333333212,
+          -156.66666666666606
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        8.33333333333212,
+        -156.66666666666606
+      ]
+    },
+    {
+      "id": "I8kKKdc-6ZW72pKNrpgH1",
+      "type": "freedraw",
+      "x": 25925.85993377525,
+      "y": 16426.002453598874,
+      "width": 70,
+      "height": 513.3333333333321,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1877167122,
+      "version": 84,
+      "versionNonce": 1987559054,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1701400273337,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -18.33333333333212,
+          -3.3333333333321207
+        ],
+        [
+          -28.33333333333212,
+          -3.3333333333321207
+        ],
+        [
+          -41.66666666666788,
+          -5
+        ],
+        [
+          -48.33333333333212,
+          -5
+        ],
+        [
+          -55,
+          -5
+        ],
+        [
+          -58.33333333333212,
+          -5
+        ],
+        [
+          -60,
+          -5
+        ],
+        [
+          -63.33333333333212,
+          -5
+        ],
+        [
+          -65,
+          -5
+        ],
+        [
+          -66.66666666666788,
+          -5
+        ],
+        [
+          -66.66666666666788,
+          -13.33333333333212
+        ],
+        [
+          -66.66666666666788,
+          -23.33333333333212
+        ],
+        [
+          -66.66666666666788,
+          -44.99999999999818
+        ],
+        [
+          -70,
+          -63.33333333333212
+        ],
+        [
+          -70,
+          -79.99999999999818
+        ],
+        [
+          -70,
+          -103.33333333333212
+        ],
+        [
+          -70,
+          -118.33333333333212
+        ],
+        [
+          -70,
+          -138.33333333333212
+        ],
+        [
+          -70,
+          -151.66666666666606
+        ],
+        [
+          -70,
+          -166.66666666666606
+        ],
+        [
+          -70,
+          -188.33333333333212
+        ],
+        [
+          -68.33333333333212,
+          -201.66666666666606
+        ],
+        [
+          -66.66666666666788,
+          -219.99999999999818
+        ],
+        [
+          -66.66666666666788,
+          -233.33333333333212
+        ],
+        [
+          -66.66666666666788,
+          -248.33333333333212
+        ],
+        [
+          -65,
+          -259.9999999999982
+        ],
+        [
+          -65,
+          -271.66666666666606
+        ],
+        [
+          -63.33333333333212,
+          -288.3333333333321
+        ],
+        [
+          -63.33333333333212,
+          -298.3333333333321
+        ],
+        [
+          -63.33333333333212,
+          -313.3333333333321
+        ],
+        [
+          -63.33333333333212,
+          -323.3333333333321
+        ],
+        [
+          -63.33333333333212,
+          -331.66666666666606
+        ],
+        [
+          -63.33333333333212,
+          -344.9999999999982
+        ],
+        [
+          -63.33333333333212,
+          -356.66666666666606
+        ],
+        [
+          -63.33333333333212,
+          -369.9999999999982
+        ],
+        [
+          -63.33333333333212,
+          -378.3333333333321
+        ],
+        [
+          -63.33333333333212,
+          -388.3333333333321
+        ],
+        [
+          -63.33333333333212,
+          -394.9999999999982
+        ],
+        [
+          -63.33333333333212,
+          -401.66666666666606
+        ],
+        [
+          -65,
+          -413.3333333333321
+        ],
+        [
+          -65,
+          -418.3333333333321
+        ],
+        [
+          -65,
+          -426.66666666666606
+        ],
+        [
+          -65,
+          -431.66666666666606
+        ],
+        [
+          -65,
+          -434.9999999999982
+        ],
+        [
+          -65,
+          -441.66666666666606
+        ],
+        [
+          -65,
+          -444.9999999999982
+        ],
+        [
+          -65,
+          -451.66666666666606
+        ],
+        [
+          -65,
+          -456.66666666666606
+        ],
+        [
+          -65,
+          -458.3333333333321
+        ],
+        [
+          -65,
+          -461.66666666666606
+        ],
+        [
+          -65,
+          -466.66666666666606
+        ],
+        [
+          -65,
+          -468.3333333333321
+        ],
+        [
+          -65,
+          -471.66666666666606
+        ],
+        [
+          -65,
+          -474.9999999999982
+        ],
+        [
+          -65,
+          -478.3333333333321
+        ],
+        [
+          -65,
+          -483.3333333333321
+        ],
+        [
+          -65,
+          -486.66666666666606
+        ],
+        [
+          -65,
+          -489.9999999999982
+        ],
+        [
+          -65,
+          -493.3333333333321
+        ],
+        [
+          -65,
+          -494.9999999999982
+        ],
+        [
+          -65,
+          -498.3333333333321
+        ],
+        [
+          -65,
+          -501.66666666666606
+        ],
+        [
+          -65,
+          -503.3333333333321
+        ],
+        [
+          -65,
+          -506.66666666666606
+        ],
+        [
+          -65,
+          -508.3333333333321
+        ],
+        [
+          -65,
+          -509.9999999999982
+        ],
+        [
+          -63.33333333333212,
+          -511.66666666666606
+        ],
+        [
+          -61.66666666666788,
+          -511.66666666666606
+        ],
+        [
+          -58.33333333333212,
+          -511.66666666666606
+        ],
+        [
+          -56.66666666666788,
+          -511.66666666666606
+        ],
+        [
+          -53.33333333333212,
+          -513.3333333333321
+        ],
+        [
+          -46.66666666666788,
+          -513.3333333333321
+        ],
+        [
+          -45,
+          -513.3333333333321
+        ],
+        [
+          -43.33333333333212,
+          -513.3333333333321
+        ],
+        [
+          -36.66666666666788,
+          -513.3333333333321
+        ],
+        [
+          -33.33333333333212,
+          -513.3333333333321
+        ],
+        [
+          -30,
+          -513.3333333333321
+        ],
+        [
+          -26.66666666666788,
+          -513.3333333333321
+        ],
+        [
+          -23.33333333333212,
+          -513.3333333333321
+        ],
+        [
+          -21.66666666666788,
+          -513.3333333333321
+        ],
+        [
+          -20,
+          -513.3333333333321
+        ],
+        [
+          -20,
+          -513.3333333333321
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        -20,
+        -513.3333333333321
+      ]
+    },
+    {
+      "id": "SiAsN8o1n5oFH-Axo44v6",
+      "type": "text",
+      "x": 25719.776600441917,
+      "y": 15616.002453598874,
+      "width": 105.5,
+      "height": 43.199999999999996,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 33269266,
+      "version": 37,
+      "versionNonce": 1464838290,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1701400281259,
+      "link": null,
+      "locked": false,
+      "text": "Title",
+      "fontSize": 36,
+      "fontFamily": 3,
+      "textAlign": "center",
+      "verticalAlign": "top",
+      "baseline": 35,
+      "containerId": null,
+      "originalText": "Title",
+      "lineHeight": 1.2
+    },
+    {
+      "id": "cpjfzUqn-VCDybq6guVF0",
+      "type": "text",
+      "x": 25654.79326558271,
+      "y": 15794.335786932208,
+      "width": 168.8000030517578,
+      "height": 43.199999999999996,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1619256398,
+      "version": 25,
+      "versionNonce": 1496260302,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1701400288608,
+      "link": null,
+      "locked": false,
+      "text": "Sentence",
+      "fontSize": 36,
+      "fontFamily": 3,
+      "textAlign": "center",
+      "verticalAlign": "top",
+      "baseline": 35,
+      "containerId": null,
+      "originalText": "Sentence",
+      "lineHeight": 1.2
+    },
+    {
+      "id": "lKx9GmcXljSYTf7bJ1Sv7",
+      "type": "text",
+      "x": 25644.793265582706,
+      "y": 16149.335786932208,
+      "width": 168.8000030517578,
+      "height": 43.199999999999996,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1597956242,
+      "version": 40,
+      "versionNonce": 1734886482,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1701400295046,
+      "link": null,
+      "locked": false,
+      "text": "Synposis",
+      "fontSize": 36,
+      "fontFamily": 3,
+      "textAlign": "center",
+      "verticalAlign": "top",
+      "baseline": 35,
+      "containerId": null,
+      "originalText": "Synposis",
+      "lineHeight": 1.2
+    },
+    {
+      "id": "SdMeFl2ERpWOh-f31hOD8",
+      "type": "text",
+      "x": 24486.526600441895,
+      "y": 17305.46912026554,
+      "width": 984,
+      "height": 100.80000000000001,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 815140242,
+      "version": 1551,
+      "versionNonce": 280246030,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1701401138621,
+      "link": null,
+      "locked": false,
+      "text": "JavaScript / JS: logic ran on the client, not on the server,\n                 pages can work without this,\n                 they used to always be without this",
+      "fontSize": 28,
+      "fontFamily": 3,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 95,
+      "containerId": null,
+      "originalText": "JavaScript / JS: logic ran on the client, not on the server,\n                 pages can work without this,\n                 they used to always be without this",
+      "lineHeight": 1.2
+    },
+    {
+      "id": "IpOsBFYu_3HqLNXXEnjei",
+      "type": "text",
+      "x": 24499.193267108603,
+      "y": 16638.73578693221,
+      "width": 1738.4000244140625,
+      "height": 100.80000000000001,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 2048403854,
+      "version": 44,
+      "versionNonce": 1037514574,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1701401084337,
+      "link": null,
+      "locked": false,
+      "text": "Client vs. Server\n  Browser on some device, Safari on iOS, Chrome on Windows, Firefox on Linux\n  NGINX on Debian, Apache on Gentoo, Caddy on ArchLinux, Traefik on k8s cluster, <Insert AWS Acronym here>",
+      "fontSize": 28,
+      "fontFamily": 3,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 95,
+      "containerId": null,
+      "originalText": "Client vs. Server\n  Browser on some device, Safari on iOS, Chrome on Windows, Firefox on Linux\n  NGINX on Debian, Apache on Gentoo, Caddy on ArchLinux, Traefik on k8s cluster, <Insert AWS Acronym here>",
+      "lineHeight": 1.2
+    },
+    {
+      "id": "oIBzTsllxMXGY_1WI8q_S",
+      "type": "text",
+      "x": 24494.193267108603,
+      "y": 16766.469120265538,
+      "width": 1558,
+      "height": 201.60000000000002,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 135299090,
+      "version": 94,
+      "versionNonce": 696304718,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1701401085819,
+      "link": null,
+      "locked": false,
+      "text": "The internet / cloud / someone elses box\n  Localhost, like putting mail in your own mailbox\n  192.168.1.x, something on your local network\n  ipv4 / ipv6, another box on the internet\n  Where do you live relative to the box? How do packets getting sent from you reach the server?\n  Brief mention of edge routing, compute close to the user",
+      "fontSize": 28,
+      "fontFamily": 3,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 195,
+      "containerId": null,
+      "originalText": "The internet / cloud / someone elses box\n  Localhost, like putting mail in your own mailbox\n  192.168.1.x, something on your local network\n  ipv4 / ipv6, another box on the internet\n  Where do you live relative to the box? How do packets getting sent from you reach the server?\n  Brief mention of edge routing, compute close to the user",
+      "lineHeight": 1.2
+    },
+    {
+      "id": "ziEfuISuguHr82qaJRQC_",
+      "type": "text",
+      "x": 24429.193267108603,
+      "y": 16519.33578693221,
+      "width": 422,
+      "height": 43.199999999999996,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1594671118,
+      "version": 61,
+      "versionNonce": 602011406,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1701401081482,
+      "link": null,
+      "locked": false,
+      "text": "High Level Overview:",
+      "fontSize": 36,
+      "fontFamily": 3,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 35,
+      "containerId": null,
+      "originalText": "High Level Overview:",
+      "lineHeight": 1.2
+    },
+    {
+      "id": "LwHyE3ZK-AXL-5Z05py13",
+      "type": "text",
+      "x": 24465.85993377527,
+      "y": 16577.869120265543,
+      "width": 253.1999969482422,
+      "height": 43.199999999999996,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1516527186,
+      "version": 41,
+      "versionNonce": 2145339922,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1701401039973,
+      "link": null,
+      "locked": false,
+      "text": "Terminology:",
+      "fontSize": 36,
+      "fontFamily": 3,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 35,
+      "containerId": null,
+      "originalText": "Terminology:",
+      "lineHeight": 1.2
+    },
+    {
+      "id": "R4OPO-pWuE0rmaF-GRBKb",
+      "type": "text",
+      "x": 24492.526600441935,
+      "y": 16956.00245359887,
+      "width": 1082.4000244140625,
+      "height": 100.80000000000001,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1189681618,
+      "version": 68,
+      "versionNonce": 1607728846,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1701401086936,
+      "link": null,
+      "locked": false,
+      "text": "\nDNS\n  going from domain to server, your browser goes hey give me stuff",
+      "fontSize": 28,
+      "fontFamily": 3,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 95,
+      "containerId": null,
+      "originalText": "\nDNS\n  going from domain to server, your browser goes hey give me stuff",
+      "lineHeight": 1.2
+    },
+    {
+      "id": "IF2ufr2nnuFXzUkzEj-fo",
+      "type": "text",
+      "x": 24489.193267108607,
+      "y": 17099.33578693221,
+      "width": 1590.800048828125,
+      "height": 33.6,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 457575502,
+      "version": 30,
+      "versionNonce": 625951758,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1701401109423,
+      "link": null,
+      "locked": false,
+      "text": "_The above is boiled down to a simple diagram, of a client and a server with the cloud inbetween_",
+      "fontSize": 28,
+      "fontFamily": 3,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 27,
+      "containerId": null,
+      "originalText": "_The above is boiled down to a simple diagram, of a client and a server with the cloud inbetween_",
+      "lineHeight": 1.2
+    },
+    {
+      "id": "ywWu08ytSisG8vBWYU9JM",
+      "type": "text",
+      "x": 24494.193267108607,
+      "y": 17167.669120265542,
+      "width": 1082.4000244140625,
+      "height": 100.80000000000001,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1081856398,
+      "version": 44,
+      "versionNonce": 1603417678,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1701401110639,
+      "link": null,
+      "locked": false,
+      "text": "HTML: Hyper Text Markup Language\nHTTP: Hyper Text Transfer Protocol\nCSS: Cascading Style Sheets (not super important during this talk)",
+      "fontSize": 28,
+      "fontFamily": 3,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 95,
+      "containerId": null,
+      "originalText": "HTML: Hyper Text Markup Language\nHTTP: Hyper Text Transfer Protocol\nCSS: Cascading Style Sheets (not super important during this talk)",
+      "lineHeight": 1.2
+    },
+    {
+      "id": "GfeaEQvLQYbZckSLbDAIL",
+      "type": "text",
+      "x": 24492.52660044194,
+      "y": 17444.33578693221,
+      "width": 1640,
+      "height": 369.6,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1448582930,
+      "version": 1100,
+      "versionNonce": 1023355346,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1701401383310,
+      "link": null,
+      "locked": false,
+      "text": "Framework, Library, Framework vs. Library\n  Framework: something that will affect the entire structure of how you build an application\n             it does not mean that you cannot write bespoke code / bring in other libraries,\n             but you will likely run into a lot less friction if you 'go with the flow' of a\n             framework (i.e. if you reach for document.getElementById in React, you are likely\n                             doing something wrong)\n             React, Ruby, Springboot, Django, Phoenix, Laravel, Blazor\n  Library: something you can add to your codebase that gives you a toolbelt to work with rather\n           than an entire schematic of how you should build something, doesn't prescribe an approach\n           other than an API you must consume some how in your application,\n           jQuery, Pandas, TanStack query",
+      "fontSize": 28,
+      "fontFamily": 3,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 363,
+      "containerId": null,
+      "originalText": "Framework, Library, Framework vs. Library\n  Framework: something that will affect the entire structure of how you build an application\n             it does not mean that you cannot write bespoke code / bring in other libraries,\n             but you will likely run into a lot less friction if you 'go with the flow' of a\n             framework (i.e. if you reach for document.getElementById in React, you are likely\n                             doing something wrong)\n             React, Ruby, Springboot, Django, Phoenix, Laravel, Blazor\n  Library: something you can add to your codebase that gives you a toolbelt to work with rather\n           than an entire schematic of how you should build something, doesn't prescribe an approach\n           other than an API you must consume some how in your application,\n           jQuery, Pandas, TanStack query",
+      "lineHeight": 1.2
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
